@@ -62,11 +62,12 @@ npm start
 
 ```js
 import { ApifyClient } from 'apify-client';
+import 'dotenv/config';
 
 // Initialize the ApifyClient with your Apify API token
-// Replace the '<YOUR_API_TOKEN>' with your token
+// Set APIFY_TOKEN in your .env file (copy .env.example to get started)
 const client = new ApifyClient({
-    token: '<YOUR_API_TOKEN>',
+    token: process.env.APIFY_TOKEN,
 });
 
 // Prepare Actor input
@@ -117,7 +118,7 @@ Each item includes:
 
 ## Try the Fiverr Scraper on Apify
 
-**[→ Open the Fiverr Listings Scraper on Apify](https://apify.com/piotrv1001/fiverr-listings-scraper)**
+**[Open the Fiverr Listings Scraper on Apify](https://apify.com/piotrv1001/fiverr-listings-scraper)**
 
 No code required — you can also run it directly from the Apify platform.
 
