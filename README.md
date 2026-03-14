@@ -117,7 +117,7 @@ Each item includes:
 
 ## Try the Fiverr Scraper on Apify
 
-**[→ Open the Fiverr Listings Scraper on Apify](YOUR_APIFY_ACTOR_LINK_HERE)**
+**[→ Open the Fiverr Listings Scraper on Apify](https://apify.com/piotrv1001/fiverr-listings-scraper)**
 
 No code required — you can also run it directly from the Apify platform.
 
@@ -125,9 +125,8 @@ No code required — you can also run it directly from the Apify platform.
 
 ## Related Resources
 
-- [Blog post: How to Scrape Fiverr in Node.js](YOUR_BLOG_POST_LINK_HERE)
-- [YouTube tutorial: Fiverr Scraper with Node.js](YOUR_YOUTUBE_LINK_HERE)
-- [Landing page](YOUR_LANDING_PAGE_LINK_HERE)
+- [Blog post: How to Scrape Fiverr in Node.js](https://www.falconscrape.com/blog/how-to-scrape-fiverr-sellers-and-gigs)
+- [YouTube tutorial: Fiverr Scraper with Node.js](https://youtu.be/stX22xQlZYU)
 
 ---
 
