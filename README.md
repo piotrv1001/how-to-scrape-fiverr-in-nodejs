@@ -46,8 +46,6 @@ Then open `.env` and replace `your_apify_token_here` with your actual token:
 APIFY_TOKEN=your_actual_token_here
 ```
 
-> You can also set the token directly in `src/index.js` by replacing `<YOUR_API_TOKEN>`.
-
 ---
 
 ## Usage
