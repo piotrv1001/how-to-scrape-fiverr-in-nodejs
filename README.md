@@ -2,6 +2,8 @@
 
 This repo shows how to use an [Apify actor](https://apify.com) to extract Fiverr listing data in Node.js — without building a scraper from scratch.
 
+![Fiverr scraper results](./fiverr_results.png)
+
 It's a simple, ready-to-run usage example that calls the existing **Fiverr Listings Scraper** actor on Apify, passes it a search URL, and prints the results.
 
 ---
