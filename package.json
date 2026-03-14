@@ -1,0 +1,13 @@
+{
+  "name": "fiverr-scraper-nodejs-example",
+  "version": "1.0.0",
+  "description": "Example showing how to scrape Fiverr listings in Node.js using the Apify actor",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.3",
+    "dotenv": "^16.4.5"
+  }
+}

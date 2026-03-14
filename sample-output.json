@@ -1,0 +1,112 @@
+[
+    {
+        "gigId": 301650643,
+        "title": "be your front end web developer using HTML,CSS, bootstrap,react js and jquery",
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "sellerName": "musttechusa",
+        "sellerDisplayName": "Must Tech",
+        "sellerCountry": "US",
+        "sellerLevel": "level_two_seller",
+        "sellerRatingCount": 233,
+        "sellerRatingScore": 4.8131313,
+        "sellerUrl": "https://www.fiverr.com/musttechusa",
+        "gigUrl": "https://www.fiverr.com/musttechusa/be-your-front-end-web-developer-using-html-css-bootstrap-react-js-and-jquery",
+        "price": 100,
+        "duration": 2,
+        "extraFast": false,
+        "mainImage": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/301650643/original/f287ef6404b915dd49bf93b890293b710d0cb122.png",
+        "agencyName": null,
+        "agencyEstablished": null,
+        "agencyHighlights": null,
+        "metadata": {
+            "website_type": ["landing_page"],
+            "programming_language": [
+                "html_css",
+                "javascript",
+                "php",
+                "python",
+                "typescript"
+            ],
+            "website_features": [
+                "marketing",
+                "payment",
+                "social_media",
+                "inventory",
+                "events",
+                "music",
+                "membership",
+                "map",
+                "faq",
+                "gallery"
+            ]
+        }
+    },
+    {
+        "gigId": 198472310,
+        "title": "build a responsive website using react, next js and tailwind css",
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "sellerName": "devcraft_studio",
+        "sellerDisplayName": "DevCraft Studio",
+        "sellerCountry": "PK",
+        "sellerLevel": "top_rated_seller",
+        "sellerRatingCount": 512,
+        "sellerRatingScore": 4.9607843,
+        "sellerUrl": "https://www.fiverr.com/devcraft_studio",
+        "gigUrl": "https://www.fiverr.com/devcraft_studio/build-a-responsive-website-using-react-next-js-and-tailwind-css",
+        "price": 150,
+        "duration": 3,
+        "extraFast": true,
+        "mainImage": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/198472310/original/abc123def456.png",
+        "agencyName": null,
+        "agencyEstablished": null,
+        "agencyHighlights": null,
+        "metadata": {
+            "website_type": ["business", "portfolio"],
+            "programming_language": [
+                "html_css",
+                "javascript",
+                "typescript"
+            ],
+            "website_features": [
+                "marketing",
+                "social_media",
+                "gallery",
+                "faq"
+            ]
+        }
+    },
+    {
+        "gigId": 445921087,
+        "title": "create a modern landing page with animations using html css and javascript",
+        "categoryId": 10,
+        "subCategoryId": 514,
+        "sellerName": "uicraft_pro",
+        "sellerDisplayName": "UI Craft Pro",
+        "sellerCountry": "IN",
+        "sellerLevel": "level_one_seller",
+        "sellerRatingCount": 87,
+        "sellerRatingScore": 4.7241379,
+        "sellerUrl": "https://www.fiverr.com/uicraft_pro",
+        "gigUrl": "https://www.fiverr.com/uicraft_pro/create-a-modern-landing-page-with-animations-using-html-css-and-javascript",
+        "price": 50,
+        "duration": 1,
+        "extraFast": false,
+        "mainImage": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/445921087/original/xyz789uvw012.png",
+        "agencyName": null,
+        "agencyEstablished": null,
+        "agencyHighlights": null,
+        "metadata": {
+            "website_type": ["landing_page"],
+            "programming_language": [
+                "html_css",
+                "javascript"
+            ],
+            "website_features": [
+                "marketing",
+                "gallery"
+            ]
+        }
+    }
+]
